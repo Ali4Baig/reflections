@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When i create a new repository .git folder is created in it which contains the mata deta about the repository. At initial state all files are untract so i need to use git add command followed by file name to start tracking it 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+May staging area allows us to add commits of files but they are not store as master file 
