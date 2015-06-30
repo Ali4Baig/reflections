@@ -4,3 +4,10 @@ When i create a new repository .git folder is created in it which contains the m
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 May staging area allows us to add commits of files but they are not store as master file 
+
+How can you use the staging area to make sure you have one commit per logical change?
+after chaning the file i use git add command to add the file in staging area i will also add more then one file at a time then i use git commit command to store it in the repository 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If i want to create new version or new feacher about which i am not shore it is ok to create or not in this case i will create a branch
+
