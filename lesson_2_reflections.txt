@@ -18,3 +18,7 @@ What is the result of merging two branches together? Why do we represent it in t
 By merging two branches we have a single combine version with all commits 
 By representing it in digram we easily understand the flow of work
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+git auto merge mergies the file correctly in most cases but in some cases we need manual merge aswell
+if we always try to merge files manualy it is very deficult and time taking task
+
