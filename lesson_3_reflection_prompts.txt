@@ -11,3 +11,7 @@ Clones:
 Clone is the copy of repository in local computer. i clone the local repository in local machine and also able to create a clone of remote repository in localmachine.
 Branch: 
 If i want to add  some new feacher in my code or want to make some changes but not shore whether they work or not the i create a branch. it divid the code into two copies and i will make changes in one copy and if need to merg the copy i will easily merge the two branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+by having a localcopy of last known state i am able to use fast forward merge and easily update the master branch
+
